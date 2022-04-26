@@ -17,8 +17,8 @@ complex problems by taking an abstract approach to roadblocks. While connecting 
 ## Connect with me
 
 <p align = "center">  
-  [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/gabrielcoellose/)
-  [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/GabrielCMM74)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/gabrielcoellose/)
+[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/GabrielCMM74)
 
 <!--
 **GabrielCMM74/GabrielCMM74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
