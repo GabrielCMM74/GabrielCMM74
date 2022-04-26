@@ -14,6 +14,7 @@ complex problems by taking an abstract approach to roadblocks. While connecting 
 
 <br>
 <br>
+
 ## Connect with me
 
 <p align = "center">  
@@ -21,6 +22,35 @@ complex problems by taking an abstract approach to roadblocks. While connecting 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/gabrielcoellose/)
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/GabrielCMM74)
 
+<br>
+  
+## Tech stack 
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![React](https://img.shields.io/badge/redux-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
+![Redux](https://img.shields.io/badge/-redux-05122A?style=flat&logo=redux&logoColor=008080)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
+![Mangodb](https://img.shields.io/badge/-mangodb-05122A?style=flat&logo=mangodb&logoColor=336791)&nbsp;
+![Mongoose](https://img.shields.io/badge/-mongoose-05122A?style=flat&logo=mongoose&logoColor=336791)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS&logoColor=777BB4)&nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+  
+
+  
 <!--
 **GabrielCMM74/GabrielCMM74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
