@@ -1,7 +1,6 @@
 <img src="https://raw.githubusercontent.com/Jaydeep-Yadav/Jaydeep-Yadav/main/banner.png" >
 
 <br>
-<br>
 
 # Software Engineer 
 I am a Software Engineer with a background in Automation Programming. I have a passion for creating innovative solutions to 
@@ -56,13 +55,13 @@ complex problems by taking an abstract approach to roadblocks. While connecting 
 <p align="left">
   <a href="https://GabrielCMM74.dev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=shamique202&show_icons=true&theme=blueberry&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=shamique202&theme=blueberry&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielCMM74&theme=blueberry&hide_border=true" />
   </a>
 </p>
 
 <br>
 
-[![Wang Liao' Activity Graph](https://activity-graph.herokuapp.com/graph?username=shamique202&custom_title=Wang%20Liao's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=add7ff&color=27e8a7)](https://GabrielCMM74.dev)
+[![Gabriel Coello's Activity Graph](https://activity-graph.herokuapp.com/graph?username=GabrielCMM74&custom_title=Wang%20Liao's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=add7ff&color=27e8a7)](https://GabrielCMM74.dev)
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
