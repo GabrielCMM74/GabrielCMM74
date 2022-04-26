@@ -54,7 +54,7 @@ complex problems by taking an abstract approach to roadblocks. While connecting 
 
 <p align="left">
   <a href="https://GabrielCMM74.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=shamique202&show_icons=true&theme=blueberry&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=GabrielCMM74&show_icons=true&theme=blueberry&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielCMM74&theme=blueberry&hide_border=true" />
   </a>
 </p>
