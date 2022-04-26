@@ -17,7 +17,7 @@ complex problems by taking an abstract approach to roadblocks. While connecting 
 ## Connect with me
 
 <p align = "center">
-  [<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](gabrielcoello74@gmail.com)
+ [<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](gabrielcoello74@gmail.com)
   
   [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/gabrielcoellose/)
   
