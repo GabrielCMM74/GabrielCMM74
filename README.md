@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Jaydeep-Yadav/Jaydeep-Yadav/main/banner.png" >
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToAjlfHFzTaNYPWe3PuIA2YmsbE_nVZVm91g&usqp=CAU" >
 
 <!--
 **GabrielCMM74/GabrielCMM74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
