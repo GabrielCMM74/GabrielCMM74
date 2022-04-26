@@ -29,7 +29,6 @@ complex problems by taking an abstract approach to roadblocks. While connecting 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![React](https://img.shields.io/badge/redux-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
 ![Redux](https://img.shields.io/badge/-redux-05122A?style=flat&logo=redux&logoColor=008080)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
@@ -48,9 +47,25 @@ complex problems by taking an abstract approach to roadblocks. While connecting 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-  
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
 
-  
+<br>
+
+## Contribution Statistics
+
+<p align="left">
+  <a href="https://GabrielCMM74.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=shamique202&show_icons=true&theme=blueberry&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=shamique202&theme=blueberry&hide_border=true" />
+  </a>
+</p>
+
+<br>
+
+[![Wang Liao' Activity Graph](https://activity-graph.herokuapp.com/graph?username=shamique202&custom_title=Wang%20Liao's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=add7ff&color=27e8a7)](https://GabrielCMM74.dev)
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <!--
 **GabrielCMM74/GabrielCMM74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
