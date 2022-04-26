@@ -49,7 +49,7 @@ complex problems by taking an abstract approach to roadblocks. While connecting 
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
 
 <br>
-
+<!-- 
 ## Contribution Statistics
 
 <p align="left">
@@ -64,7 +64,7 @@ complex problems by taking an abstract approach to roadblocks. While connecting 
 [![Gabriel Coello's Activity Graph](https://activity-graph.herokuapp.com/graph?username=GabrielCMM74&custom_title=Gabriel%20Coello's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=add7ff&color=27e8a7)](https://GabrielCMM74.dev)
 
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  -->
 <!--
 **GabrielCMM74/GabrielCMM74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
