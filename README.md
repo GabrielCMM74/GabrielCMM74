@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/Jaydeep-Yadav/Jaydeep-Yadav/main/banner.png" >
 
-<br>
 
 # Software Engineer 
 I am a Software Engineer with a background in Automation Programming. I have a passion for creating innovative solutions to 
@@ -11,7 +10,6 @@ complex problems by taking an abstract approach to roadblocks. While connecting 
 - I was a recipient of the Adobe Digital Academy scholarship to support my transition into Software development 
 - Before embarking on the path of becoming a software engineer I studied electrical engineering technology, automation systems, PLC/HMI programming, and electrical systems. 
 
-<br>
 <br>
 
 ## Connect with me
