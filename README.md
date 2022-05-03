@@ -8,7 +8,7 @@ complex problems by taking an abstract approach to roadblocks. While connecting 
 <br>
 
 - I was a recipient of the Adobe Digital Academy scholarship to support my transition into Software development 
-- Before embarking on the path of becoming a software engineer I studied electrical engineering technology, automation systems, PLC/HMI programming, and electrical systems. 
+- Before embarking on the path of becoming a software engineer I studied electrical engineering technology, automation systems, and PLC/HMI programming.
 
 ## Connect with me
 
