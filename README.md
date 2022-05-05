@@ -34,7 +34,7 @@ complex problems by taking an abstract approach to roadblocks. While connecting 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![Mongodb](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb&logoColor=336791)&nbsp;
 ![Mongoose](https://img.shields.io/badge/-mongoose-05122A?style=flat&logo=mongoose&logoColor=336791)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
+<!-- ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp; -->
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS&logoColor=777BB4)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
